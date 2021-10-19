@@ -1,0 +1,58 @@
+.Producttitle{
+    margin-top:48px;
+    font-weight:600;
+  }
+  .Producdesc
+  {
+    max-width: 400px;
+    width:90%;
+    color:rgba(0,0,0,0.8);
+    font-size:20px;
+  }
+  .selectheading
+  {
+    font-size: 28px;
+    margin-bottom:8px;
+  }
+  
+  .productimage
+  {
+    width:100%;
+    max-width:80px;
+    object-fit:cover;
+    margin-right:12px;
+    cursor: pointer;
+  }
+  .selectedProductImage
+  {
+    border:2px solid teal;
+    border-radius: 8px;
+  }
+  .featuredItem
+  {
+    background: gainsboro;
+    border:0;
+    min-width:80px;
+    border-radius:8px;
+    margin-right:12px;
+    text-align:center;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-weight:600;
+    padding:12px 24px;
+  }
+  .selectedFeatureditem
+  {
+    background-color: gray ;
+    color:white;
+  }
+  .primaryButton
+  {
+    color:white;
+    background-color:teal;
+    font-size:20px;
+    border-radius:8px;
+    border:0;
+    padding:12px 24px;
+    margin-top:36px;
+  }

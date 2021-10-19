@@ -1,0 +1,25 @@
+body{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.Topbar
+{
+  background-color: #282c34;
+  text-align:center;
+}
+.logo
+{
+    height: 5rem;
+    width:15rem;
+    object-fit: cover;
+}
+.mainContainer
+{
+  display:flex;
+  align-items: center;
+  width:100%;;
+  box-sizing: border-box;
+  padding:2% 12%;
+  margin-top:32px;
+}
+
